@@ -1,0 +1,8 @@
+tensorflow==2.21.0
+numpy==2.4.6
+matplotlib==3.10.9
+seaborn==0.13.2
+pillow==12.2.0
+scikit-learn==1.8.0
+zenml==0.94.4
+mlflow==3.12.0
