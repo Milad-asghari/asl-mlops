@@ -47,7 +47,7 @@ src/
 ├── model.py
 ├── train.py
 ├── pipeline.py
-└── main.py
+└── run.py
 ```
 
 ## Installation
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ## Run the Pipeline
 
 ```bash
-python src/main.py
+python src/run.py
 ```
 
 ## Logged Metrics
