@@ -93,4 +93,4 @@ python src/main.py
 
 ## Training Curve
 
-![Loss Curve](screenshots/loss_curve.png)
+![Loss Curve](screenshots/loss_plot.png)
